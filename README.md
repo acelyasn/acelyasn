@@ -5,7 +5,7 @@ I'm currently a fourth-year student in Bahçeşehir University.
 
 ## 📫 How to reach me
 <a href ="https://www.linkedin.com/in/acelyanur-sen/"><img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">&nbsp;</a>
-<a href ="mailto:acelyasen19@gmail.com"><img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png">&nbsp;</a>
+<a href ="mailto:acelyasen19@gmail.com"><img width=50px src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">&nbsp;</a>
 
 
 ## 🤔 Languages
