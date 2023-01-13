@@ -18,7 +18,7 @@ I'm currently a fourth-year student in Bahçeşehir University.
 </div>
 
 
-### Stats
+<!--### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelyasn&theme=nightowl)
 <!--
