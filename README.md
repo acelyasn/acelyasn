@@ -1,15 +1,14 @@
-# Hi there 👋 I'm Açelyanur or just Açelya! 
+-  Hi there 👋 I'm Açelyanur or just Açelya :)
 - I'm currently a fourth-year student in Bahçeşehir University.
 - Nowadays i'm learning more about data science and its relation with Python. 
 - I make discord bots sometimes too, just for fun
 
-## 📫 How to reach me
+### 📫 How to reach me
 <a href ="https://www.linkedin.com/in/acelyanur-sen/"><img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">&nbsp;</a>
-
 <a href ="mailto:acelyasen19@gmail.com"><img width=50px src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">&nbsp;</a>
 
 
-## 🤔 Languages
+### 🤔 Languages
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">&nbsp;
