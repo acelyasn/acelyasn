@@ -1,25 +1,27 @@
 -  Hi there 👋 I'm Açelyanur or just Açelya :)
 - I'm currently a fourth-year student in Bahçeşehir University.
-- Nowadays i'm learning more about data science and its relation with Python. 
+- Nowadays i'm learning more about data science and data analytics
 - I make discord bots sometimes too, just for fun
 
 ### 📫 How to reach me
-<a href ="https://www.linkedin.com/in/acelyanur-sen/"><img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">&nbsp;</a>
-<a href ="mailto:acelyasen19@gmail.com"><img width=50px src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">&nbsp;</a>
+ [![Mail Badge](https://img.shields.io/badge/-acelyasen19-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:acelyasen19@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Açelyanur_Şen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acelyanur-sen/)
 
 
-### 🤔 Languages
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">&nbsp;
-  <img width=45px src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">&nbsp;
-  <a href = "https://www.oracle.com/database/technologies/appdev/sql.html"><img width=45px src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt= "Oracle SQL">&nbsp;</a>
+### 🤔 Top Tech
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![SQL Badge](https://img.shields.io/badge/-MySQL-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) [![Microsoft Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0080FF?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0080FF)](#) [![Microsoft SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-0080FF?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=0080FF)](#) [![R Badge](https://img.shields.io/badge/-R-A7C7E7?style=for-the-badge&labelColor=black&logo=r&logoColor=A7C7E7)](#) [![C++ Badge](https://img.shields.io/badge/-C++-C41E3A?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=C41E3A)](#)
 
-</div>
-
-### 📊 Stats
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acelyasn&theme=nightowl)
+  
+<details>
+  <summary>📊 Stats
+  </summary>
+  <br>
+  
+  
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acelyasn&theme=nightowl)
+  
+  
+ </details>
 
 <!--
 <!--
