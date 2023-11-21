@@ -1,6 +1,6 @@
 -  Hi there 👋 I'm Açelyanur or just Açelya :)
-- I'm currently a fourth-year student in Bahçeşehir University.
-- Nowadays i'm learning more about data science and data analytics
+- I'm a recent computer engineering graduate from Bahçeşehir University.
+- Nowadays I'm learning more about data science and data analytics
 - I make discord bots sometimes too, just for fun
 
 ### 📫 How to reach me
