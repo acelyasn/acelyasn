@@ -11,7 +11,14 @@
 ### 🤔 Top Tech
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![SQL Badge](https://img.shields.io/badge/-MySQL-F0DB4F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F0DB4F)](#) [![Microsoft Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0080FF?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=0080FF)](#) [![Microsoft SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-0080FF?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=0080FF)](#) [![R Badge](https://img.shields.io/badge/-R-A7C7E7?style=for-the-badge&labelColor=black&logo=r&logoColor=A7C7E7)](#) [![C++ Badge](https://img.shields.io/badge/-C++-C41E3A?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=C41E3A)](#)
 
-  
+
+<h2 align="cleft">Stats</h2>
+<div align="left" width="full">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acelyasn&layout=donut&theme=transparent&border_color=7211f6&disable_animations" alt="github_stat" disable_animations/>
+</div>
+
+
+<!--  
 <details>
   <summary>📊 Stats
   </summary>
@@ -23,7 +30,7 @@
   
  </details>
 
-<!--
+
 <!--
 **acelyasn/acelyasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
